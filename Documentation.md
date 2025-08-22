@@ -1,6 +1,6 @@
 # Parte 2 — Arquitetura e Documentação do Pipeline (Creators & Posts)
 
-> **Objetivo**: Desenhar e documentar um pipeline de dados escalável para ingestão e atualização contínua de dados de *creators* e seus *posts*, **sem** depender dos arquivos JSON da Parte 1. Este documento está pronto para ser incluído no seu repositório GitHub (README/`docs/`), com diagramas em Mermaid.
+> **Objetivo**: Desenhar e documentar um pipeline de dados escalável para ingestão e atualização contínua de dados de *creators* e seus *posts*, **sem** depender dos arquivos JSON da Parte 1. 
 
 ---
 
